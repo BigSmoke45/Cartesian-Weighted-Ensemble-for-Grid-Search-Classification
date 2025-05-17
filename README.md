@@ -1,0 +1,2 @@
+# Cartesian-Weighted-Ensemble-for-Grid-Search-Classification
+This project modifies a horizontal voting ensemble model by introducing a grid-based weighted search approach using Cartesian product combinations. It includes a weighted soft-voting classifier trained multiple times to evaluate stability and accuracy across runs. Parallelization suggestions with libraries like Joblib are also included. 
